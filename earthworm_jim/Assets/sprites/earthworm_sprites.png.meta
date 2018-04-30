@@ -1,0 +1,4210 @@
+fileFormatVersion: 2
+guid: c8dd09a8a9092f547af4652907df8fc4
+timeCreated: 1524928115
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: earthworm_sprites_0
+    21300002: earthworm_sprites_1
+    21300004: earthworm_sprites_2
+    21300006: earthworm_sprites_3
+    21300008: earthworm_sprites_4
+    21300010: earthworm_sprites_5
+    21300012: earthworm_sprites_6
+    21300014: earthworm_sprites_7
+    21300016: earthworm_sprites_8
+    21300018: earthworm_sprites_9
+    21300020: earthworm_sprites_10
+    21300022: earthworm_sprites_11
+    21300024: earthworm_sprites_12
+    21300026: earthworm_sprites_13
+    21300028: earthworm_sprites_14
+    21300030: earthworm_sprites_15
+    21300032: earthworm_sprites_16
+    21300034: earthworm_sprites_17
+    21300036: earthworm_sprites_20
+    21300038: earthworm_sprites_21
+    21300040: earthworm_sprites_22
+    21300042: earthworm_sprites_23
+    21300044: earthworm_sprites_24
+    21300046: earthworm_sprites_25
+    21300048: earthworm_sprites_26
+    21300050: earthworm_sprites_29
+    21300052: earthworm_sprites_35
+    21300054: earthworm_sprites_40
+    21300056: earthworm_sprites_44
+    21300058: earthworm_sprites_45
+    21300060: earthworm_sprites_47
+    21300062: earthworm_sprites_55
+    21300064: earthworm_sprites_56
+    21300066: earthworm_sprites_57
+    21300068: earthworm_sprites_58
+    21300070: earthworm_sprites_59
+    21300072: earthworm_sprites_61
+    21300074: earthworm_sprites_62
+    21300076: earthworm_sprites_63
+    21300078: earthworm_sprites_64
+    21300080: earthworm_sprites_65
+    21300082: earthworm_sprites_67
+    21300084: earthworm_sprites_68
+    21300086: earthworm_sprites_70
+    21300088: earthworm_sprites_71
+    21300090: idle_1
+    21300092: idle_2
+    21300094: idle_3
+    21300096: idle_5
+    21300098: earthworm_sprites_78
+    21300100: earthworm_sprites_79
+    21300102: earthworm_sprites_81
+    21300104: earthworm_sprites_83
+    21300106: earthworm_sprites_85
+    21300108: earthworm_sprites_87
+    21300110: idle_4
+    21300112: earthworm_sprites_90
+    21300114: earthworm_sprites_91
+    21300116: earthworm_sprites_93
+    21300118: earthworm_sprites_94
+    21300120: earthworm_sprites_96
+    21300122: earthworm_sprites_104
+    21300124: earthworm_sprites_107
+    21300126: earthworm_sprites_108
+    21300128: earthworm_sprites_112
+    21300130: earthworm_sprites_113
+    21300132: earthworm_sprites_115
+    21300134: earthworm_sprites_116
+    21300136: earthworm_sprites_117
+    21300138: earthworm_sprites_118
+    21300140: earthworm_sprites_119
+    21300142: earthworm_sprites_121
+    21300144: earthworm_sprites_122
+    21300146: earthworm_sprites_123
+    21300148: earthworm_sprites_124
+    21300150: earthworm_sprites_130
+    21300152: earthworm_sprites_132
+    21300154: earthworm_sprites_133
+    21300156: earthworm_sprites_135
+    21300158: earthworm_sprites_147
+    21300160: earthworm_sprites_149
+    21300162: earthworm_sprites_151
+    21300164: earthworm_sprites_153
+    21300166: earthworm_sprites_154
+    21300168: earthworm_sprites_157
+    21300170: earthworm_sprites_159
+    21300172: earthworm_sprites_160
+    21300174: earthworm_sprites_161
+    21300176: earthworm_sprites_162
+    21300178: earthworm_sprites_163
+    21300180: earthworm_sprites_164
+    21300182: earthworm_sprites_166
+    21300184: earthworm_sprites_172
+    21300186: earthworm_sprites_173
+    21300188: earthworm_sprites_174
+    21300190: earthworm_sprites_175
+    21300192: earthworm_sprites_183
+    21300194: earthworm_sprites_187
+    21300196: earthworm_sprites_189
+    21300198: earthworm_sprites_194
+    21300200: earthworm_sprites_196
+    21300202: earthworm_sprites_197
+    21300204: earthworm_sprites_198
+    21300206: jump_7
+    21300208: earthworm_sprites_201
+    21300210: earthworm_sprites_202
+    21300212: earthworm_sprites_205
+    21300214: jump_1
+    21300216: jump_2
+    21300218: earthworm_sprites_208
+    21300220: earthworm_sprites_209
+    21300222: jump_4
+    21300224: jump_6
+    21300226: jump_8
+    21300228: earthworm_sprites_213
+    21300230: earthworm_sprites_214
+    21300232: earthworm_sprites_215
+    21300234: earthworm_sprites_217
+    21300236: jump_3
+    21300238: earthworm_sprites_220
+    21300240: earthworm_sprites_222
+    21300242: earthworm_sprites_223
+    21300244: earthworm_sprites_226
+    21300246: earthworm_sprites_228
+    21300248: earthworm_sprites_229
+    21300250: earthworm_sprites_230
+    21300252: earthworm_sprites_232
+    21300254: earthworm_sprites_233
+    21300256: earthworm_sprites_235
+    21300258: earthworm_sprites_236
+    21300260: earthworm_sprites_237
+    21300262: earthworm_sprites_239
+    21300264: earthworm_sprites_241
+    21300266: earthworm_sprites_251
+    21300268: earthworm_sprites_253
+    21300270: earthworm_sprites_254
+    21300272: earthworm_sprites_255
+    21300274: earthworm_sprites_256
+    21300276: earthworm_sprites_257
+    21300278: earthworm_sprites_258
+    21300280: earthworm_sprites_260
+    21300282: earthworm_sprites_261
+    21300284: earthworm_sprites_263
+    21300286: earthworm_sprites_264
+    21300288: earthworm_sprites_266
+    21300290: earthworm_sprites_267
+    21300292: earthworm_sprites_268
+    21300294: earthworm_sprites_270
+    21300296: earthworm_sprites_271
+    21300298: earthworm_sprites_272
+    21300300: earthworm_sprites_273
+    21300302: earthworm_sprites_274
+    21300304: earthworm_sprites_275
+    21300306: earthworm_sprites_278
+    21300308: earthworm_sprites_279
+    21300310: earthworm_sprites_280
+    21300312: earthworm_sprites_281
+    21300314: earthworm_sprites_282
+    21300316: earthworm_sprites_284
+    21300318: earthworm_sprites_285
+    21300320: earthworm_sprites_286
+    21300322: earthworm_sprites_287
+    21300324: earthworm_sprites_288
+    21300326: earthworm_sprites_297
+    21300328: earthworm_sprites_300
+    21300330: earthworm_sprites_301
+    21300332: earthworm_sprites_303
+    21300334: earthworm_sprites_304
+    21300336: earthworm_sprites_305
+    21300338: earthworm_sprites_306
+    21300340: earthworm_sprites_307
+    21300342: earthworm_sprites_308
+    21300344: earthworm_sprites_309
+    21300346: earthworm_sprites_310
+    21300348: earthworm_sprites_312
+    21300350: earthworm_sprites_314
+    21300352: earthworm_sprites_315
+    21300354: earthworm_sprites_316
+    21300356: earthworm_sprites_317
+    21300358: earthworm_sprites_318
+    21300360: earthworm_sprites_322
+    21300362: earthworm_sprites_324
+    21300364: earthworm_sprites_325
+    21300366: earthworm_sprites_328
+    21300368: earthworm_sprites_329
+    21300370: earthworm_sprites_330
+    21300372: earthworm_sprites_342
+    21300374: earthworm_sprites_343
+    21300376: earthworm_sprites_344
+    21300378: earthworm_sprites_345
+    21300380: earthworm_sprites_346
+    21300382: walk_1
+    21300384: walk_2
+    21300386: walk_3
+    21300388: walk_4
+    21300390: shoot_up_right
+    21300392: earthworm_sprites_354
+    21300394: shoot_horizontal
+    21300396: shot_up
+    21300398: shoot_bottom
+    21300400: shoot_bottom_right
+    21300402: earthworm_sprites_364
+    21300404: earthworm_sprites_366
+    21300406: earthworm_sprites_368
+    21300408: earthworm_sprites_369
+    21300410: earthworm_sprites_370
+    21300412: earthworm_sprites_372
+    21300414: earthworm_sprites_373
+    21300416: earthworm_sprites_374
+    21300418: earthworm_sprites_375
+    21300420: earthworm_sprites_376
+    21300422: earthworm_sprites_377
+    21300424: earthworm_sprites_378
+    21300426: earthworm_sprites_380
+    21300428: earthworm_sprites_383
+    21300430: earthworm_sprites_384
+    21300432: earthworm_sprites_386
+    21300434: earthworm_sprites_389
+    21300436: earthworm_sprites_390
+    21300438: earthworm_sprites_391
+    21300440: earthworm_sprites_392
+    21300442: earthworm_sprites_393
+    21300444: earthworm_sprites_394
+    21300446: earthworm_sprites_395
+    21300448: earthworm_sprites_400
+    21300450: earthworm_sprites_401
+    21300452: earthworm_sprites_402
+    21300454: earthworm_sprites_403
+    21300456: earthworm_sprites_404
+    21300458: earthworm_sprites_405
+    21300460: earthworm_sprites_407
+    21300462: earthworm_sprites_408
+    21300464: earthworm_sprites_409
+    21300466: earthworm_sprites_410
+    21300468: earthworm_sprites_411
+    21300470: earthworm_sprites_412
+    21300472: earthworm_sprites_413
+    21300474: earthworm_sprites_414
+    21300476: earthworm_sprites_416
+    21300478: earthworm_sprites_417
+    21300480: earthworm_sprites_420
+    21300482: earthworm_sprites_422
+    21300484: earthworm_sprites_425
+    21300486: earthworm_sprites_427
+    21300488: earthworm_sprites_428
+    21300490: earthworm_sprites_430
+    21300492: earthworm_sprites_432
+    21300494: earthworm_sprites_433
+    21300496: earthworm_sprites_434
+    21300498: earthworm_sprites_435
+    21300500: earthworm_sprites_436
+    21300502: earthworm_sprites_437
+    21300504: earthworm_sprites_438
+    21300506: earthworm_sprites_439
+    21300508: earthworm_sprites_442
+    21300510: earthworm_sprites_444
+    21300512: earthworm_sprites_446
+    21300514: earthworm_sprites_447
+    21300516: earthworm_sprites_448
+    21300518: earthworm_sprites_449
+    21300520: earthworm_sprites_450
+    21300522: earthworm_sprites_451
+    21300524: earthworm_sprites_452
+    21300526: earthworm_sprites_453
+    21300528: earthworm_sprites_454
+    21300530: earthworm_sprites_456
+    21300532: earthworm_sprites_457
+    21300534: earthworm_sprites_458
+    21300536: shooting
+    21300538: earthworm_sprites_460
+    21300540: earthworm_sprites_461
+    21300542: earthworm_sprites_462
+    21300544: earthworm_sprites_463
+    21300546: earthworm_sprites_464
+    21300548: earthworm_sprites_465
+    21300550: earthworm_sprites_18
+    21300552: earthworm_sprites_19
+    21300554: earthworm_sprites_27
+    21300556: earthworm_sprites_28
+    21300558: projetil
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earthworm_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 956
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 954
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 950
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 998
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 953
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1000
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 950
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 952
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 949
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 947
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 947
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1003
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 949
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 946
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 995
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 997
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 997
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 997
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 947
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 948
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 950
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 948
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 946
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 946
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 946
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 979
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 965
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 948
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 959
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 961
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 959
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 894
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 890
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 870
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 867
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 863
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 849
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 906
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 887
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 886
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 863
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 855
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 853
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 853
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 849
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 849
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 848
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 845
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 842
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 872
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 855
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 860
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 878
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 877
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 883
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 845
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 869
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 855
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 877
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 875
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 874
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 859
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 790
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 843
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 794
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 790
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_115
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 784
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_116
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 824
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 785
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_118
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 786
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_119
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 827
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_121
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 778
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_122
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 775
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 778
+        width: 179
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_124
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 819
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_130
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 784
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_132
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 814
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_133
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 820
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_135
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 782
+        width: 137
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_147
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 775
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 773
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_151
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 727
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 730
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_154
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 728
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_157
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 700
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_159
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 695
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_160
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 726
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_161
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 726
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_162
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 707
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_163
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 713
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_164
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 709
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_166
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 709
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_172
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 719
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_173
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 749
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_174
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 753
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_175
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 747
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_183
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 699
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_187
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 726
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_189
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 723
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_194
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 703
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_196
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 689
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_197
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_198
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 688
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 638
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_201
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 634
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_202
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 643
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_205
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 645
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 634
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 632
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_208
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 684
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_209
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 638
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 637
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 637
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 632
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_213
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 675
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_214
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 622
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_215
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 625
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_217
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 631
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 633
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_220
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 679
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_222
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 672
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_223
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 636
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_226
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 669
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_228
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 667
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_229
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 670
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_230
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 667
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_232
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 629
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_233
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 660
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_235
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 634
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_236
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 623
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_237
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 633
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_239
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 663
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_241
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 658
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_251
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 644
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_253
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 553
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_254
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 598
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_255
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 555
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_256
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 602
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_257
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 552
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_258
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 551
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_260
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 546
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_261
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 524
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_263
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 600
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_264
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 598
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_266
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 549
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_267
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 555
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_268
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 593
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_270
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 522
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_271
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 545
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_272
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 545
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_273
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 546
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_274
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 589
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_275
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 546
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_278
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 558
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_279
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 519
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_280
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 579
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_281
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 574
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_282
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 575
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_284
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 547
+        width: 113
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_285
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 565
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_286
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 570
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_287
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 569
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_288
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 567
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_297
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 563
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_300
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 446
+        width: 112
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_301
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 495
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_303
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 452
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_305
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 455
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_306
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 477
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_307
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 489
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_308
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 477
+        width: 71
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_309
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 475
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_310
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 438
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_312
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 481
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_315
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 452
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_316
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 451
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_317
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 446
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_318
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 452
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_322
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 454
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_324
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 449
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_325
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 407
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_328
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 466
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_329
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 446
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_330
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 474
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_342
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 410
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_343
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 413
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_344
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 356
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_345
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 373
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_346
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 374
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 369
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 370
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 368
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 362
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoot_up_right
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 353
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_354
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 371
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoot_horizontal
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 354
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shot_up
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 354
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoot_bottom
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 327
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoot_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 343
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_364
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_366
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 312
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_368
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 314
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_369
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 261
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_370
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 329
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_372
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 328
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_373
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 277
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_374
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 327
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_375
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 274
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_377
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 262
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_378
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 257
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_380
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 317
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_383
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 313
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_384
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 303
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_386
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 280
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_389
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 303
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_392
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 245
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_393
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 230
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_394
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_395
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 247
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_400
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_401
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 301
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_402
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_403
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 232
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_404
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 300
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_405
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 290
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_407
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 285
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_408
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 263
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_409
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_410
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 290
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_411
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 290
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_412
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_413
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 228
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_414
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 279
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_416
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 278
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_417
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 231
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_420
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 278
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_422
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 270
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_425
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 259
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_427
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 222
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_428
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_430
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 248
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_432
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 251
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_433
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 228
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_434
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 242
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_435
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 236
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_436
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 242
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_437
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 244
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_438
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 245
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_439
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 239
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_442
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 188
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_444
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 188
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_446
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 185
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_447
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_448
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 200
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_449
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_450
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_451
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_452
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_453
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_454
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_456
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 70
+        width: 193
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_457
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 61
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_458
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 46
+        width: 189
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shooting
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_461
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 37
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_462
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_463
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_464
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 757
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 722
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 400
+        width: 2
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: earthworm_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 450
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projetil
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 470
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
